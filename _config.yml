@@ -4,9 +4,17 @@ menu:
   主页: /
   随笔: /tags/随笔/
 
+# Site
+title: Alice的博客
+subtitle: 
+description: 华中科技大学18级直博生
+author: Alice
+email: qingyun_zhang@hust.edu.cn
+keywords: "算法,c,c++,启发式,python,编程,代码,开源,IT网站"
+
 # SubNav
 subnav:
-  github: "#"
+  github: "//qingyunzhang.github.io"
   weibo: "#"
   rss: "#"
   zhihu: "#"
@@ -28,6 +36,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
+url: //qingyunzhang.github.io
 root: /
 
 # Content
